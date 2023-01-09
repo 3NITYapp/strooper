@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Strooper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_application">Loading application</string>
+    <string name="upgrade_your_brain">Upgrade your brain</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="logo_of_the_application">Logo of the application</string>
+    <string name="your_last_best_score">Your last best score:</string>
+    <string name="default_score">9999</string>
+    <string name="choose_game">Choose game</string>
+    <string name="text_to_text">Text to text</string>
+    <string name="text_to_figure">Text to figure</string>
+    <string name="figure_to_text">Figure to text</string>
+    <string name="mixed_mode">Mixed mode</string>
+    <string name="button_back_page">Button back page</string>
+    <string name="gametitle">Gametitle</string>
+    <string name="rules">Rules</string>
+    <string name="rules_text_to_text">In this game mode, you need to choose from the suggested options the name of the color in which the word is colored on the screen. \nDo it as quickly as possible!</string>
+    <string name="rules_text_to_figure">In this game mode, you need to choose from the suggested options a container with the color whose name is written on the screen. \nDo it as quickly as possible!</string>
+    <string name="rules_figure_to_text">In this game mode, you need to choose from the suggested options the name of the color in which the container is painted on the screen. \nDo it as quickly as possible!</string>
+    <string name="rules_mixed_mode">In this game mode, you need to choose from the suggested options the name of the color in which the word is colored in the container on the screen. \nDo it as quickly as possible!</string>
+    <string name="let_s_go">Let\'s go!</string>
+    <string name="time_left">time left</string>
+    <string name="points">Points: </string>
+    <string name="color">Color</string>
+    <string name="results">Results: </string>
+    <string name="score">Score:</string>
+    <string name="try_again">Try again</string>
+    <string name="go">Go!</string>
+    <string name="finish">Finish!</string>
+
+
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="green">Green</string>
+    <string name="pink">Pink</string>
+    <string name="yellow">Yellow</string>
+    <string name="orange">Orange</string>
+    <string name="light_blue">Light-blue</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="light_green">Light-green</string>
+    <string name="brown">Brown</string>
+    <string name="gray">Gray</string>
+    <string name="correct">Correct:</string>
+    <string name="record">Record:</string>
+    <string name="back_to_menu">back to menu</string>
+</resources>

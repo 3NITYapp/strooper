@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Strooper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_application">Loading application</string>
+    <string name="upgrade_your_brain">Upgrade your brain</string>
+    <string name="welcome">ПРИВЕТ!</string>
+    <string name="logo_of_the_application">Логотип приложения</string>
+    <string name="your_last_best_score">Лучший счёт:</string>
+    <string name="default_score">9999</string>
+    <string name="choose_game">Выбери игру</string>
+    <string name="text_to_text">Текст к тексту</string>
+    <string name="text_to_figure">Текст к фигуре</string>
+    <string name="figure_to_text">Фигура к тексту</string>
+    <string name="mixed_mode">Смешанный</string>
+    <string name="button_back_page">Кнопка назад</string>
+    <string name="gametitle">Заголовок</string>
+    <string name="rules">Правила</string>
+    <string name="rules_text_to_text">В этом игровом режиме вам нужно выбрать из предложенных вариантов название цвета, в который окрашено слово на экране. \nДелайте это как можно быстрее!</string>
+    <string name="rules_text_to_figure">В этом игровом режиме вам нужно выбрать из предложенных вариантов контейнер того цвета, название которого написано на экране. \nДелайте это как можно быстрее!</string>
+    <string name="rules_figure_to_text">В этом игровом режиме вам нужно выбрать из предложенных вариантов название цвета, в который окрашен контейнер на экране. \nДелайте это как можно быстрее!</string>
+    <string name="rules_mixed_mode">В этом игровом режиме вам нужно выбрать из предложенных вариантов название цвета, в который окрашено слово в контейнере на экране. \nДелайте это как можно быстрее!</string>
+    <string name="let_s_go">Начать!</string>
+    <string name="time_left">Время</string>
+    <string name="points">Очки: </string>
+    <string name="color">Цвет</string>
+    <string name="results">Итого: </string>
+    <string name="score">Счёт:</string>
+    <string name="try_again">Ещё раз</string>
+    <string name="go">Старт!</string>
+    <string name="finish">Финиш!</string>
+
+
+    <string name="red">Красный</string>
+    <string name="blue">Синий</string>
+    <string name="purple">Фиолетовый</string>
+    <string name="green">Зелёный</string>
+    <string name="pink">Розовый</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="orange">Оранжевый</string>
+    <string name="light_blue">Голубой</string>
+    <string name="white">Белый</string>
+    <string name="black">Чёрный</string>
+    <string name="light_green">Салатовый</string>
+    <string name="brown">Коричневый</string>
+    <string name="gray">Серый</string>
+    <string name="correct">Верно:</string>
+    <string name="record">Рекорд:</string>
+    <string name="back_to_menu">Меню</string>
+</resources>
